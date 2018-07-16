@@ -1,2 +1,2 @@
 This is an example file modified
-Second line on branch
+Second line on branch one-word
