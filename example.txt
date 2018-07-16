@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This is an example file modified first line updated
 Second line on branch one-word
+=======
+This is an example file modified
+Second line on branch line two updated
+>>>>>>> auto
